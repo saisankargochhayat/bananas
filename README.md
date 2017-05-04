@@ -60,5 +60,6 @@ Ready? Let's get started!
 
 Want to learn more:
 
+- [other Probot plugins](https://github.com/search?utf8=%E2%9C%93&q=topic%3Aprobot-plugin&type=Repositories)
+- [Probot plugin documentation](https://github.com/probot/probot/blob/master/docs/plugins.md)
 - [node-github client documentation](https://mikedeboer.github.io/node-github/)
-- [Probot plugins documentation](https://github.com/probot/probot/blob/master/docs/plugins.md)
