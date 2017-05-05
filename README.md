@@ -45,9 +45,9 @@ Ready? Let's get started!
 
 1. [Create a new GitHub Integration](https://github.com/settings/integrations/new) with:
 
-    - **Integration Name**: `yourusername-bananas`, replacing `yourusername` with your GitHub username.
+    - **Integration Name**: `YOURUSERNAME-bananas`, replacing `YOURUSERNAME` with your GitHub username.
 
-    - **Homepage URL**, **User authorization callback URL**, and **Webhook URL**: Set to `https://yourusername.localtunnel.com/`, again replacing `yourusername` with your GitHub username.
+    - **Homepage URL**, **User authorization callback URL**, and **Webhook URL**: Set to `https://YOURUSERNAME.localtunnel.com/`, again replacing `YOURUSERNAME` with your GitHub username.
 
     - **Webhook Secret:** `development`
 
