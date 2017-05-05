@@ -1,6 +1,6 @@
-# Build a bot!
+# Build a GitHub bot!
 
-This guide will walk you through running a simple [GitHub Integration](https://developer.github.com/early-access/integrations/) that ensures every commit has the word bananas and get it running on a test repository. All of the source code you need is in this gist.
+This guide will walk you through building a simple [GitHub Integration](https://developer.github.com/early-access/integrations/) that ensures every commit has the word bananas and get it running on a test repository. All of the source code you need is in this gist.
 
 Here's what it will look like when your commits are not bananas:
 
