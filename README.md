@@ -1,3 +1,18 @@
+Join #probot in Slack for questions and discussion.
+
+# Agenda
+
+1. Introduction to [GitHub Apps](https://developer.github.com/early-access/integrations/)
+1. [Introduction to Probot](https://github.com/jbjonesjr/presentations/blob/master/dc_api_probot.pdf) with @jbjonesjr
+1. Walkthrough of what we're going to do today
+1. Build a bot!
+
+## Captains Log
+
+One of the goals of this exercise is to get your feedback. What is hard? What is confusing? Where did you get stuck? Post any observations or suggestions in the #probot channel. For example, my first entry:
+
+- LOG: Knowing where to start with an app on https://developer.github.com/early-access/integrations/ is a little confusing. I like how Slack has a **Start Building** button on their [api docs](https://api.slack.com/) that takes you directly to creating an app with documentation along side it.
+
 # Build a GitHub bot!
 
 This guide will walk you through building a simple [GitHub Integration](https://developer.github.com/early-access/integrations/) that ensures every commit has the word bananas and get it running on a test repository. All of the source code you need is in this gist.
