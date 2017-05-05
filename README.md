@@ -47,7 +47,7 @@ Ready? Let's get started!
 
     - **Integration Name**: `YOURUSERNAME-bananas`, replacing `YOURUSERNAME` with your GitHub username.
 
-    - **Homepage URL**, **User authorization callback URL**, and **Webhook URL**: Set to `https://YOURUSERNAME.localtunnel.com/`, again replacing `YOURUSERNAME` with your GitHub username.
+    - **Homepage URL**, **User authorization callback URL**, and **Webhook URL**: Set to `https://YOURUSERNAME.localtunnel.me/`, again replacing `YOURUSERNAME` with your GitHub username.
 
     - **Webhook Secret:** `development`
 
