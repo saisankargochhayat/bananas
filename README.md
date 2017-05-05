@@ -17,7 +17,7 @@ Ready? Let's get started!
 
         $ git clone https://gist.github.com/bkeepers/546efd41fa08f1af418d5c58e02ec696 bananas
 
-1. Make sure you have a recent version of [Node.js](https://nodejs.org/) installed.
+1. Make sure you have a recent version of [Node.js](https://nodejs.org/) installed. If you're on a Mac, `brew install node` will do it for you.
 
         $ node --version
         v7.8.0
