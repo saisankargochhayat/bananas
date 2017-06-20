@@ -1,4 +1,4 @@
-Join #probot in Slack for questions and discussion.
+Check out the [recording of the first session](https://githubber.tv/github/build-a-bot-workshop). Join #probot in Slack for questions and discussion.
 
 # Agenda
 
